@@ -1,0 +1,3 @@
+<template>
+  <communication-report/>
+</template>
